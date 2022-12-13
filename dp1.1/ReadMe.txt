@@ -2,6 +2,11 @@
     WIN32 APPLICATION : dp1 Project Overview
 ========================================================================
 
+
+Agnieszka Rudzka 
+Adam Waśko 
+Tadeusz Wojtecki
+
 AppWizard has created this dp1 application for you.
 
 This file contains a summary of what you will find in each of the files that
